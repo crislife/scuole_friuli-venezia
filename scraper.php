@@ -12,13 +12,6 @@ require  'scraperwiki/simple_html_dom.php';
 $prov_friuliv = array("GORIZIA","PORDENONDE","TRIESTE","UDINE");
 
 $tipologie=array("Alunni%Abbinati",
-                 "CIRCOLO%20DIDATTICO",
-                 "CORSO%20SERALE",
-                 "ISTITUTO%20COMPRENSIVO",
-                 "ISTITUTO%20DI%20ISTRUZIONE%20SUPERIORE",
-                 "SCUOLA%20DELL'INFANZIA",
-                 "SCUOLA%20PRIMARIA",
-                 "SCUOLA%20SECONDARIA%20DI%20I%20GRADO",
                  "SCUOLA%20SECONDARIA%20DI%20II%20GRADO");
 
 # Use the PHP Simple HTML DOM Parser to extract <td> tags
