@@ -11,7 +11,7 @@ require  'scraperwiki/simple_html_dom.php';
 
 $prov_friuliv = array("GORIZIA","PORDENONDE","TRIESTE","UDINE");
 
-$tipologie=array("CENTRO%20TERRITORIALE%20PERMANENTE",
+$tipologie=array("Alunni%Abbinati",
                  "CIRCOLO%20DIDATTICO",
                  "CORSO%20SERALE",
                  "ISTITUTO%20COMPRENSIVO",
